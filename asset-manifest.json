@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chat_app/static/css/main.c830e98a.css",
-    "main.js": "/chat_app/static/js/main.0dc3f0eb.js",
+    "main.css": "/chat_app/static/css/main.0322d83c.css",
+    "main.js": "/chat_app/static/js/main.6db937ae.js",
     "static/js/453.f93e9c00.chunk.js": "/chat_app/static/js/453.f93e9c00.chunk.js",
     "static/media/social-media.gif": "/chat_app/static/media/social-media.dddacb8dbec2f607bd35.gif",
     "static/media/P1_gif.gif": "/chat_app/static/media/P1_gif.aea1f38eaeab4b81978b.gif",
@@ -66,12 +66,12 @@
     "index.html": "/chat_app/index.html",
     "static/media/Arrow1.svg": "/chat_app/static/media/Arrow1.801973b90cbf9afa2eec5613a2d44e15.svg",
     "static/media/._BlackMango-ExtraBold.ttf": "/chat_app/static/media/._BlackMango-ExtraBold.64f7b1f723ed694e1a1a.ttf",
-    "main.c830e98a.css.map": "/chat_app/static/css/main.c830e98a.css.map",
-    "main.0dc3f0eb.js.map": "/chat_app/static/js/main.0dc3f0eb.js.map",
+    "main.0322d83c.css.map": "/chat_app/static/css/main.0322d83c.css.map",
+    "main.6db937ae.js.map": "/chat_app/static/js/main.6db937ae.js.map",
     "453.f93e9c00.chunk.js.map": "/chat_app/static/js/453.f93e9c00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c830e98a.css",
-    "static/js/main.0dc3f0eb.js"
+    "static/css/main.0322d83c.css",
+    "static/js/main.6db937ae.js"
   ]
 }
